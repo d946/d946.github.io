@@ -65,6 +65,9 @@
       document.getElementById("clear").onclick = function () {
 	     document.getElementById("log").innerHTML=""	  
 	  }
+      document.getElementById("chat2").onclick = function () {
+	     document.getElementById("wsURL").value="wss://.herokuapp.com/b4e62d97ff35"	  
+	  }	    
 	  
       document.getElementById("disconnect").onclick = function () {
         conn.close()
@@ -161,7 +164,8 @@
       <input type="button" id="connect" value="&#9654;" />
       <input type="button" id="disconnect" value="&#9632;" disabled />
       <input type="button" id="clear" value="Clear" />	    
-      <input type="text" id="wsURL" value="wss://d946.herokuapp.com/chat1" size="64">
+      <input type="button" id="chat2" value="2" />	    	    
+      <input type="text" id="wsURL" value="wss://.herokuapp.com/4a0b8100" size="64">
 
       <span id="status"></span>
     </div>
