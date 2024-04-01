@@ -1,223 +1,224 @@
-{ 
-  "cap": ["SBER", "ROSN", "LKOH", "NVTK", "GAZP", "SIBN", "GMKN", "TATN", "PLZL", "CHMF", "SNGS", "SNGSP", "YNDX", "NLMK", "VTBR", "PHOR", "MGNT", "FIVE", "OZON", "IRKT", "AKRN", "TCSG", "MAGN", "MTSS", "PIKK", "ALRS", "BANE", "RUAL", "MOEX", "IRAO", "VSMO", "UNAC", "SVCB", "RTKM", "HYDR", "FLOT", "FESH", "ENPG", "RASP", "CBOM", "FIXP", "FEES", "NMTP", "TRMK", "RSTI", "SFIN", "SMLT", "GCHE", "AFKS", "HHRU", "LSNG", "AGRO", "KZOS", "NKNC", "POSI", "ROSB", "AFLT", "UGLD", "MTLR", "KAZT", "MGTS", "RGSS", "POLY", "KUBE", "BSPB", "ASTR", "VKCO", "MSNG", "UPRO", "KMAZ", "POGR", "GLTR", "LEAS", "LENT", "LSRG", "BELU", "GEMC", "AQUA", "MRKS", "SELG", "INGR", "YAKG", "MDMG", "GAZC", "AVAN", "USBN", "NKHP", "MSRS", "DIAS", "OGKB", "CIAN", "UKUZ", "VJGZ", "MSTT", "SGZH", "DVEC", "RNFT", "UTAR", "DELI", "RENI", "OMZZ", "MFGS", "PRTK", "AVAZ", "EUTR", "MRKK", "TNSE", "ALNU", "KCHE", "RTSB", "VRSB", "DIXY", "MRKP", "MRKU", "WUSH", "ETLN", "MVID", "TGKA", "DSKY", "AMEZ", "APTK", "SOFL", "BLNG", "JNOS", "RKKE", "CHMK", "SVAV", "FTRE", "OTCP", "HNFG", "ABRD", "MRKC", "KROT", "ELFV", "NNSB", "PAZA", "TTLK", "YRSB", "VSYDP", "WTCM", "TGKB", "UCSS", "TGKN", "LNZL", "URKZ", "SAGO", "GAZA", "TGKD", "CHKZ", "KRSB", "KBTK", "MRKY", "KOGK", "QIWI", "LPSB", "KBSB", "KRKN", "MISB", "MRKV", "EELT", "IGST", "SPBE", "BRZL", "PMSB", "ABIO", "PRMB", "MRKZ", "ZILL", "MOBB", "RZSB", "NSVZ", "OKEY", "VGSB", "HIMC", "NAUK", "KGKC", "ZVEZ", "YKEN", "KMEZ", "UWGN", "SLEN", "KMTZ", "PRFN", "NKSH", "RBCM", "UNKL", "CARM", "NFAZ", "OSMP", "GECO", "TORS", "RTGZ", "SARE", "STSB", "ROLO", "CNTL", "ALBK", "MAGE", "RDRB", "KLSB", "MGKL", "ROST", "TRNF", "TUZA", "DZRD", "ASSB", "LVHK", "ARSA", "DIOD", "VLHZ", "KUZB", "MRSB", "KRKO", "LIFE", "SVET", "KTSB", "BISV", "GEMA", "TASB"],
-  "em": { "SBER": [1, 3] ,
-"ROSN": [1, 17273] ,
-"LKOH": [1, 8] ,
-"NVTK": [1, 17370] ,
-"GAZP": [1, 16842] ,
-"SIBN": [1, 2] ,
-"GMKN": [1, 795] ,
-"TATN": [1, 825] ,
-"PLZL": [1, 17123] ,
-"CHMF": [1, 16136] ,
-"SNGS": [1, 4] ,
-"SNGSP": [1, 13] ,
-"YNDX": [1, 388383] ,
-"NLMK": [1, 17046] ,
-"VTBR": [1, 19043] ,
-"PHOR": [1, 81114] ,
-"MGNT": [1, 17086] ,
-"FIVE": [1, 491944] ,
-"OZON": [1, 2179435] ,
-"IRKT": [0, 0]
-"AKRN": [0, 0]
-"TCSG": [0, 0]
-"MAGN": [1, 16782] ,
-"MTSS": [1, 15523] ,
-"PIKK": [1, 18654] ,
-"ALRS": [1, 81820] ,
-"BANE": [0, 0]
-"RUAL": [0, 0]
-"MOEX": [1, 152798] ,
-"IRAO": [1, 20516] ,
-"VSMO": [0, 0]
-"UNAC": [0, 0]
-"SVCB": [0, 0]
-"RTKM": [1, 7] ,
-"HYDR": [0, 0]
-"FLOT": [0, 0]
-"FESH": [0, 0]
-"ENPG": [1, 929597] ,
-"RASP": [0, 0]
-"CBOM": [1, 420694] ,
-"FIXP": [1, 2388781] ,
-"FEES": [0, 0]
-"NMTP": [1, 19629] ,
-"TRMK": [0, 0]
-"RSTI": [0, 0]
-"SFIN": [0, 0]
-"SMLT": [0, 0]
-"GCHE": [0, 0]
-"AFKS": [0, 0]
-"HHRU": [0, 0]
-"LSNG": [0, 0]
-"AGRO": [1, 399716] ,
-"KZOS": [0, 0]
-"NKNC": [0, 0]
-"POSI": [0, 0]
-"ROSB": [0, 0]
-"AFLT": [1, 29] ,
-"UGLD": [0, 0]
-"MTLR": [0, 0]
-"KAZT": [0, 0]
-"MGTS": [0, 0]
-"RGSS": [0, 0]
-"POLY": [0, 0]
-"KUBE": [0, 0]
-"BSPB": [0, 0]
-"ASTR": [0, 0]
-"VKCO": [0, 0]
-"MSNG": [0, 0]
-"UPRO": [0, 0]
-"KMAZ": [0, 0]
-"POGR": [0, 0]
-"GLTR": [0, 0]
-"LEAS": [0, 0]
-"LENT": [0, 0]
-"LSRG": [0, 0]
-"BELU": [0, 0]
-"GEMC": [0, 0]
-"AQUA": [0, 0]
-"MRKS": [0, 0]
-"SELG": [0, 0]
-"INGR": [0, 0]
-"YAKG": [0, 0]
-"MDMG": [0, 0]
-"GAZC": [0, 0]
-"AVAN": [0, 0]
-"USBN": [0, 0]
-"NKHP": [0, 0]
-"MSRS": [0, 0]
-"DIAS": [0, 0]
-"OGKB": [0, 0]
-"CIAN": [0, 0]
-"UKUZ": [0, 0]
-"VJGZ": [0, 0]
-"MSTT": [0, 0]
-"SGZH": [1, 2477992] ,
-"DVEC": [0, 0]
-"RNFT": [0, 0]
-"UTAR": [0, 0]
-"DELI": [0, 0]
-"RENI": [0, 0]
-"OMZZ": [0, 0]
-"MFGS": [0, 0]
-"PRTK": [0, 0]
-"AVAZ": [0, 0]
-"EUTR": [0, 0]
-"MRKK": [0, 0]
-"TNSE": [0, 0]
-"ALNU": [0, 0]
-"KCHE": [0, 0]
-"RTSB": [0, 0]
-"VRSB": [0, 0]
-"DIXY": [0, 0]
-"MRKP": [0, 0]
-"MRKU": [0, 0]
-"WUSH": [0, 0]
-"ETLN": [0, 0]
-"MVID": [0, 0]
-"TGKA": [0, 0]
-"DSKY": [0, 0]
-"AMEZ": [0, 0]
-"APTK": [0, 0]
-"SOFL": [0, 0]
-"BLNG": [0, 0]
-"JNOS": [0, 0]
-"RKKE": [0, 0]
-"CHMK": [0, 0]
-"SVAV": [0, 0]
-"FTRE": [0, 0]
-"OTCP": [0, 0]
-"HNFG": [0, 0]
-"ABRD": [0, 0]
-"MRKC": [0, 0]
-"KROT": [0, 0]
-"ELFV": [0, 0]
-"NNSB": [0, 0]
-"PAZA": [0, 0]
-"TTLK": [0, 0]
-"YRSB": [0, 0]
-"VSYDP": [0, 0]
-"WTCM": [0, 0]
-"TGKB": [0, 0]
-"UCSS": [0, 0]
-"TGKN": [0, 0]
-"LNZL": [0, 0]
-"URKZ": [0, 0]
-"SAGO": [0, 0]
-"GAZA": [0, 0]
-"TGKD": [0, 0]
-"CHKZ": [0, 0]
-"KRSB": [0, 0]
-"KBTK": [0, 0]
-"MRKY": [0, 0]
-"KOGK": [0, 0]
-"QIWI": [0, 0]
-"LPSB": [0, 0]
-"KBSB": [0, 0]
-"KRKN": [0, 0]
-"MISB": [0, 0]
-"MRKV": [0, 0]
-"EELT": [0, 0]
-"IGST": [0, 0]
-"SPBE": [0, 0]
-"BRZL": [0, 0]
-"PMSB": [0, 0]
-"ABIO": [0, 0]
-"PRMB": [0, 0]
-"MRKZ": [0, 0]
-"ZILL": [0, 0]
-"MOBB": [0, 0]
-"RZSB": [0, 0]
-"NSVZ": [0, 0]
-"OKEY": [0, 0]
-"VGSB": [0, 0]
-"HIMC": [0, 0]
-"NAUK": [0, 0]
-"KGKC": [0, 0]
-"ZVEZ": [0, 0]
-"YKEN": [0, 0]
-"KMEZ": [0, 0]
-"UWGN": [0, 0]
-"SLEN": [0, 0]
-"KMTZ": [0, 0]
-"PRFN": [0, 0]
-"NKSH": [0, 0]
-"RBCM": [0, 0]
-"UNKL": [0, 0]
-"CARM": [0, 0]
-"NFAZ": [0, 0]
-"OSMP": [0, 0]
-"GECO": [0, 0]
-"TORS": [0, 0]
-"RTGZ": [0, 0]
-"SARE": [0, 0]
-"STSB": [0, 0]
-"ROLO": [0, 0]
-"CNTL": [0, 0]
-"ALBK": [0, 0]
-"MAGE": [0, 0]
-"RDRB": [0, 0]
-"KLSB": [0, 0]
-"MGKL": [0, 0]
-"ROST": [0, 0]
-"TRNF": [0, 0]
-"TUZA": [0, 0]
-"DZRD": [0, 0]
-"ASSB": [0, 0]
-"LVHK": [0, 0]
-"ARSA": [0, 0]
-"DIOD": [0, 0]
-"VLHZ": [0, 0]
-"KUZB": [0, 0]
-"MRSB": [0, 0]
-"KRKO": [0, 0]
-"LIFE": [0, 0]
-"SVET": [0, 0]
-"KTSB": [0, 0]
-"BISV": [0, 0]
-"GEMA": [0, 0]
-"TASB": [0, 0]
-  }    
-}  
+{
+    "cap": ["SBER", "ROSN", "LKOH", "NVTK", "GAZP", "SIBN", "GMKN", "TATN", "PLZL", "CHMF", "SNGS", "SNGSP", "YNDX", "NLMK", "VTBR", "PHOR", "MGNT", "FIVE", "OZON", "IRKT", "AKRN", "TCSG", "MAGN", "MTSS", "PIKK", "ALRS", "BANE", "RUAL", "MOEX", "IRAO", "VSMO", "UNAC", "SVCB", "RTKM", "HYDR", "FLOT", "FESH", "ENPG", "RASP", "CBOM", "FIXP", "FEES", "NMTP", "TRMK", "RSTI", "SFIN", "SMLT", "GCHE", "AFKS", "HHRU", "LSNG", "AGRO", "KZOS", "NKNC", "POSI", "ROSB", "AFLT", "UGLD", "MTLR", "KAZT", "MGTS", "RGSS", "POLY", "KUBE", "BSPB", "ASTR", "VKCO", "MSNG", "UPRO", "KMAZ", "POGR", "GLTR", "LEAS", "LENT", "LSRG", "BELU", "GEMC", "AQUA", "MRKS", "SELG", "INGR", "YAKG", "MDMG", "GAZC", "AVAN", "USBN", "NKHP", "MSRS", "DIAS", "OGKB", "CIAN", "UKUZ", "VJGZ", "MSTT", "SGZH", "DVEC", "RNFT", "UTAR", "DELI", "RENI", "OMZZ", "MFGS", "PRTK", "AVAZ", "EUTR", "MRKK", "TNSE", "ALNU", "KCHE", "RTSB", "VRSB", "DIXY", "MRKP", "MRKU", "WUSH", "ETLN", "MVID", "TGKA", "DSKY", "AMEZ", "APTK", "SOFL", "BLNG", "JNOS", "RKKE", "CHMK", "SVAV", "FTRE", "OTCP", "HNFG", "ABRD", "MRKC", "KROT", "ELFV", "NNSB", "PAZA", "TTLK", "YRSB", "VSYDP", "WTCM", "TGKB", "UCSS", "TGKN", "LNZL", "URKZ", "SAGO", "GAZA", "TGKD", "CHKZ", "KRSB", "KBTK", "MRKY", "KOGK", "QIWI", "LPSB", "KBSB", "KRKN", "MISB", "MRKV", "EELT", "IGST", "SPBE", "BRZL", "PMSB", "ABIO", "PRMB", "MRKZ", "ZILL", "MOBB", "RZSB", "NSVZ", "OKEY", "VGSB", "HIMC", "NAUK", "KGKC", "ZVEZ", "YKEN", "KMEZ", "UWGN", "SLEN", "KMTZ", "PRFN", "NKSH", "RBCM", "UNKL", "CARM", "NFAZ", "OSMP", "GECO", "TORS", "RTGZ", "SARE", "STSB", "ROLO", "CNTL", "ALBK", "MAGE", "RDRB", "KLSB", "MGKL", "ROST", "TRNF", "TUZA", "DZRD", "ASSB", "LVHK", "ARSA", "DIOD", "VLHZ", "KUZB", "MRSB", "KRKO", "LIFE", "SVET", "KTSB", "BISV", "GEMA", "TASB"],
+    "em": {
+        "SBER": [1, 3],
+        "ROSN": [1, 17273],
+        "LKOH": [1, 8],
+        "NVTK": [1, 17370],
+        "GAZP": [1, 16842],
+        "SIBN": [1, 2],
+        "GMKN": [1, 795],
+        "TATN": [1, 825],
+        "PLZL": [1, 17123],
+        "CHMF": [1, 16136],
+        "SNGS": [1, 4],
+        "SNGSP": [1, 13],
+        "YNDX": [1, 388383],
+        "NLMK": [1, 17046],
+        "VTBR": [1, 19043],
+        "PHOR": [1, 81114],
+        "MGNT": [1, 17086],
+        "FIVE": [1, 491944],
+        "OZON": [1, 2179435],
+        "IRKT": [0, 0],
+        "AKRN": [0, 0],
+        "TCSG": [0, 0],
+        "MAGN": [1, 16782],
+        "MTSS": [1, 15523],
+        "PIKK": [1, 18654],
+        "ALRS": [1, 81820],
+        "BANE": [0, 0],
+        "RUAL": [0, 0],
+        "MOEX": [1, 152798],
+        "IRAO": [1, 20516],
+        "VSMO": [0, 0],
+        "UNAC": [0, 0],
+        "SVCB": [0, 0],
+        "RTKM": [1, 7],
+        "HYDR": [0, 0],
+        "FLOT": [0, 0],
+        "FESH": [0, 0],
+        "ENPG": [1, 929597],
+        "RASP": [0, 0],
+        "CBOM": [1, 420694],
+        "FIXP": [1, 2388781],
+        "FEES": [0, 0],
+        "NMTP": [1, 19629],
+        "TRMK": [0, 0],
+        "RSTI": [0, 0],
+        "SFIN": [0, 0],
+        "SMLT": [0, 0],
+        "GCHE": [0, 0],
+        "AFKS": [0, 0],
+        "HHRU": [0, 0],
+        "LSNG": [0, 0],
+        "AGRO": [1, 399716],
+        "KZOS": [0, 0],
+        "NKNC": [0, 0],
+        "POSI": [0, 0],
+        "ROSB": [0, 0],
+        "AFLT": [1, 29],
+        "UGLD": [0, 0],
+        "MTLR": [0, 0],
+        "KAZT": [0, 0],
+        "MGTS": [0, 0],
+        "RGSS": [0, 0],
+        "POLY": [0, 0],
+        "KUBE": [0, 0],
+        "BSPB": [0, 0],
+        "ASTR": [0, 0],
+        "VKCO": [0, 0],
+        "MSNG": [0, 0],
+        "UPRO": [0, 0],
+        "KMAZ": [0, 0],
+        "POGR": [0, 0],
+        "GLTR": [0, 0],
+        "LEAS": [0, 0],
+        "LENT": [0, 0],
+        "LSRG": [0, 0],
+        "BELU": [0, 0],
+        "GEMC": [0, 0],
+        "AQUA": [0, 0],
+        "MRKS": [0, 0],
+        "SELG": [0, 0],
+        "INGR": [0, 0],
+        "YAKG": [0, 0],
+        "MDMG": [0, 0],
+        "GAZC": [0, 0],
+        "AVAN": [0, 0],
+        "USBN": [0, 0],
+        "NKHP": [0, 0],
+        "MSRS": [0, 0],
+        "DIAS": [0, 0],
+        "OGKB": [0, 0],
+        "CIAN": [0, 0],
+        "UKUZ": [0, 0],
+        "VJGZ": [0, 0],
+        "MSTT": [0, 0],
+        "SGZH": [1, 2477992],
+        "DVEC": [0, 0],
+        "RNFT": [0, 0],
+        "UTAR": [0, 0],
+        "DELI": [0, 0],
+        "RENI": [0, 0],
+        "OMZZ": [0, 0],
+        "MFGS": [0, 0],
+        "PRTK": [0, 0],
+        "AVAZ": [0, 0],
+        "EUTR": [0, 0],
+        "MRKK": [0, 0],
+        "TNSE": [0, 0],
+        "ALNU": [0, 0],
+        "KCHE": [0, 0],
+        "RTSB": [0, 0],
+        "VRSB": [0, 0],
+        "DIXY": [0, 0],
+        "MRKP": [0, 0],
+        "MRKU": [0, 0],
+        "WUSH": [0, 0],
+        "ETLN": [0, 0],
+        "MVID": [0, 0],
+        "TGKA": [0, 0],
+        "DSKY": [0, 0],
+        "AMEZ": [0, 0],
+        "APTK": [0, 0],
+        "SOFL": [0, 0],
+        "BLNG": [0, 0],
+        "JNOS": [0, 0],
+        "RKKE": [0, 0],
+        "CHMK": [0, 0],
+        "SVAV": [0, 0],
+        "FTRE": [0, 0],
+        "OTCP": [0, 0],
+        "HNFG": [0, 0],
+        "ABRD": [0, 0],
+        "MRKC": [0, 0],
+        "KROT": [0, 0],
+        "ELFV": [0, 0],
+        "NNSB": [0, 0],
+        "PAZA": [0, 0],
+        "TTLK": [0, 0],
+        "YRSB": [0, 0],
+        "VSYDP": [0, 0],
+        "WTCM": [0, 0],
+        "TGKB": [0, 0],
+        "UCSS": [0, 0],
+        "TGKN": [0, 0],
+        "LNZL": [0, 0],
+        "URKZ": [0, 0],
+        "SAGO": [0, 0],
+        "GAZA": [0, 0],
+        "TGKD": [0, 0],
+        "CHKZ": [0, 0],
+        "KRSB": [0, 0],
+        "KBTK": [0, 0],
+        "MRKY": [0, 0],
+        "KOGK": [0, 0],
+        "QIWI": [0, 0],
+        "LPSB": [0, 0],
+        "KBSB": [0, 0],
+        "KRKN": [0, 0],
+        "MISB": [0, 0],
+        "MRKV": [0, 0],
+        "EELT": [0, 0],
+        "IGST": [0, 0],
+        "SPBE": [0, 0],
+        "BRZL": [0, 0],
+        "PMSB": [0, 0],
+        "ABIO": [0, 0],
+        "PRMB": [0, 0],
+        "MRKZ": [0, 0],
+        "ZILL": [0, 0],
+        "MOBB": [0, 0],
+        "RZSB": [0, 0],
+        "NSVZ": [0, 0],
+        "OKEY": [0, 0],
+        "VGSB": [0, 0],
+        "HIMC": [0, 0],
+        "NAUK": [0, 0],
+        "KGKC": [0, 0],
+        "ZVEZ": [0, 0],
+        "YKEN": [0, 0],
+        "KMEZ": [0, 0],
+        "UWGN": [0, 0],
+        "SLEN": [0, 0],
+        "KMTZ": [0, 0],
+        "PRFN": [0, 0],
+        "NKSH": [0, 0],
+        "RBCM": [0, 0],
+        "UNKL": [0, 0],
+        "CARM": [0, 0],
+        "NFAZ": [0, 0],
+        "OSMP": [0, 0],
+        "GECO": [0, 0],
+        "TORS": [0, 0],
+        "RTGZ": [0, 0],
+        "SARE": [0, 0],
+        "STSB": [0, 0],
+        "ROLO": [0, 0],
+        "CNTL": [0, 0],
+        "ALBK": [0, 0],
+        "MAGE": [0, 0],
+        "RDRB": [0, 0],
+        "KLSB": [0, 0],
+        "MGKL": [0, 0],
+        "ROST": [0, 0],
+        "TRNF": [0, 0],
+        "TUZA": [0, 0],
+        "DZRD": [0, 0],
+        "ASSB": [0, 0],
+        "LVHK": [0, 0],
+        "ARSA": [0, 0],
+        "DIOD": [0, 0],
+        "VLHZ": [0, 0],
+        "KUZB": [0, 0],
+        "MRSB": [0, 0],
+        "KRKO": [0, 0],
+        "LIFE": [0, 0],
+        "SVET": [0, 0],
+        "KTSB": [0, 0],
+        "BISV": [0, 0],
+        "GEMA": [0, 0],
+        "TASB": [0, 0]
+    }
+}
