@@ -1,9 +1,9 @@
 {
     "cap": ["SBER", "ROSN", "LKOH", "NVTK", "GAZP", "SIBN", "GMKN", "TATN", "PLZL", "CHMF", "SNGS", "SNGSP", "YNDX", "NLMK", "VTBR", "PHOR", "MGNT", "FIVE", "OZON", "IRKT", "AKRN", "TCSG", "MAGN", "MTSS", "PIKK", "ALRS", "BANE", "RUAL", "MOEX", "IRAO", "VSMO", "UNAC", "SVCB", "RTKM", "HYDR", "FLOT", "FESH", "ENPG", "RASP", "CBOM", "FIXP", "FEES", "NMTP", "TRMK", "RSTI", "SFIN", "SMLT", "GCHE", "AFKS", "HHRU", "LSNG", "AGRO", "KZOS", "NKNC", "POSI", "ROSB", "AFLT", "UGLD", "MTLR", "KAZT", "MGTS", "RGSS", "POLY", "KUBE", "BSPB", "ASTR", "VKCO", "MSNG", "UPRO", "KMAZ", "POGR", "GLTR", "LEAS", "LENT", "LSRG", "BELU", "GEMC", "AQUA", "MRKS", "SELG", "INGR", "YAKG", "MDMG", "GAZC", "AVAN", "USBN", "NKHP", "MSRS", "DIAS", "OGKB", "CIAN", "UKUZ", "VJGZ", "MSTT", "SGZH", "DVEC", "RNFT", "UTAR", "DELI", "RENI", "OMZZ", "MFGS", "PRTK", "AVAZ", "EUTR", "MRKK", "TNSE", "ALNU", "KCHE", "RTSB", "VRSB", "DIXY", "MRKP", "MRKU", "WUSH", "ETLN", "MVID", "TGKA", "DSKY", "AMEZ", "APTK", "SOFL", "BLNG", "JNOS", "RKKE", "CHMK", "SVAV", "FTRE", "OTCP", "HNFG", "ABRD", "MRKC", "KROT", "ELFV", "NNSB", "PAZA", "TTLK", "YRSB", "VSYDP", "WTCM", "TGKB", "UCSS", "TGKN", "LNZL", "URKZ", "SAGO", "GAZA", "TGKD", "CHKZ", "KRSB", "KBTK", "MRKY", "KOGK", "QIWI", "LPSB", "KBSB", "KRKN", "MISB", "MRKV", "EELT", "IGST", "SPBE", "BRZL", "PMSB", "ABIO", "PRMB", "MRKZ", "ZILL", "MOBB", "RZSB", "NSVZ", "OKEY", "VGSB", "HIMC", "NAUK", "KGKC", "ZVEZ", "YKEN", "KMEZ", "UWGN", "SLEN", "KMTZ", "PRFN", "NKSH", "RBCM", "UNKL", "CARM", "NFAZ", "OSMP", "GECO", "TORS", "RTGZ", "SARE", "STSB", "ROLO", "CNTL", "ALBK", "MAGE", "RDRB", "KLSB", "MGKL", "ROST", "TRNF", "TUZA", "DZRD", "ASSB", "LVHK", "ARSA", "DIOD", "VLHZ", "KUZB", "MRSB", "KRKO", "LIFE", "SVET", "KTSB", "BISV", "GEMA", "TASB"],
     "em": {
-        "SBER": [1, 3, 10, 0.2],
+        "SBER": [1, 3, 10, 0.25],
         "ROSN": [1, 17273, 1, 1],
-        "LKOH": [1, 8, 1, 5],
+        "LKOH": [1, 8, 1, 10],
         "NVTK": [1, 17370,1, 2],
         "GAZP": [1, 16842, 10, 0.2],
         "SIBN": [1, 2, 1, 2],
@@ -11,8 +11,8 @@
         "TATN": [1, 825],
         "PLZL": [1, 17123],
         "CHMF": [1, 16136],
-        "SNGS": [1, 4],
-        "SNGSP": [1, 13],
+        "SNGS": [1, 4, 100, 0.1],
+        "SNGSP": [1, 13, 100, 0.2],
         "YNDX": [1, 388383],
         "NLMK": [1, 17046],
         "VTBR": [1, 19043],
