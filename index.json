@@ -1,0 +1,71 @@
+{
+  "v": "3.viper-ide",
+  "updated": 1728745833,
+  "packages": [{
+    "name":  "viper-tools",
+    "homepage": "https://github.com/vshymanskyy/ViperIDE/tree/main/packages/viper-tools",
+    "versions": [{
+      "version": "latest",
+      "url": "github:vshymanskyy/ViperIDE/packages/viper-tools/package.json"
+    }]
+  },{
+    "name":  "memory-profiler",
+    "homepage": "https://github.com/pi-mst/micropython-memory-profiler",
+    "versions": [{
+      "version": "latest",
+      "url":   "github:pi-mst/micropython-memory-profiler"
+    }]
+  },{
+    "name": "aiodns",
+    "homepage": "https://gitlab.com/vshymanskyy/aiodns",
+    "versions": [{
+      "version": "latest",
+      "url": "github:vshymanskyy/aiodns"
+    }]
+  },{
+    "name": "aioprof",
+    "homepage": "https://gitlab.com/alelec/aioprof",
+    "versions": [{
+      "version": "latest",
+      "url": "gitlab:alelec/aioprof/aioprof.py"
+    }]
+  },{
+    "name": "async-primitives",
+    "homepage": "https://github.com/peterhinch/micropython-async",
+    "versions": [{
+      "version": "latest",
+      "url": "github:peterhinch/micropython-async/v3/primitives"
+    }]
+  },{
+    "name": "async-threadsafe",
+    "homepage": "https://github.com/peterhinch/micropython-async",
+    "versions": [{
+      "version": "latest",
+      "url": "github:peterhinch/micropython-async/v3/threadsafe"
+    }]
+  },{
+    "name": "emlearn",
+    "version": "master",
+    "keywords": "native,tinyml,dsp",
+    "description": "Enables MicroPython applications to run efficient Machine Learning models on microcontroller, without having to touch any C code",
+    "author": "Jon Nordby",
+    "license": "MIT",
+    "homepage": "https://emlearn.github.io/emlearn-micropython",
+    "versions": [{
+      "version": "master",
+      "url": "https://emlearn.github.io/emlearn-micropython/builds/master/package.json"
+    }]
+  },{
+    "name": "tamp",
+    "version": "master",
+    "keywords": "__hidden__,native,compression,deflate,zlib",
+    "description": "A low-memory, DEFLATE-inspired lossless compression library",
+    "author": "Brian Pugh",
+    "license": "Apache-2.0",
+    "homepage": "https://github.com/BrianPugh/tamp",
+    "versions": [{
+      "version": "master",
+      "url": "github:BrianPugh/tamp"
+    }]
+  }]
+}
